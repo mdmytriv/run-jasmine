@@ -1,3 +1,4 @@
+/* Maryan Dmytriv*/
 var system = require('system'),
   env = system.env;
 /**
